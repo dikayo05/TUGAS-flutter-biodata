@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "286018860153",
+    "project_id": "biodata-c8214",
+    "storage_bucket": "biodata-c8214.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286018860153:android:43c516b45261d13e8590a8",
+        "android_client_info": {
+          "package_name": "com.dekulmen.biodata"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVU5OX14LUsTAb7PUd_GGmTAEaFaG9eao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
